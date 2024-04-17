@@ -1584,7 +1584,7 @@ hr.invis1 {
 }
 
 .filter-button-group{
-	border: 1px solid #e45050;
+	border: 1px solid #DB5C87;
 	border-radius: 0px;
 	margin: 10px 0px;
 	display: inline-block;
@@ -2171,7 +2171,7 @@ select.mobile-device {
 }
 
 .contact_form .form-control:focus {
-	border: 2px solid #e45050;
+	border: 2px solid #DB5C87;
 }
 
 .contact_form textarea {
